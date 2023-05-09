@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Programmazione Python",
+    "description": "Teoria e pratica",
+    "image": "python.jpeg"
+  },
+  {
+    "title": "Matematica per l'intelligenza artificiale",
+    "description": "",
+    "image": "math.jpeg"
+  },
+  {
+    "title": "Machine Learning",
+    "description": "",
+    "image": "ml.jpeg"
+  },
+  {
+    "title": "Deep Learning",
+    "description": "",
+    "image": "dl.jpeg"
+  },
+  {
+    "title": "Data Mininig",
+    "description": "",
+    "image": "dl.jpeg"
+  },
+  {
+    "title": "Data Analytics",
+    "description": "",
+    "image": "dl.jpeg"
+  },
+  {
+    "title": "Natural Language Processing",
+    "description": "",
+    "image": "dl.jpeg"
+  },
+  {
+    "title": "Computer Vision",
+    "description": "",
+    "image": "dl.jpeg"
+  },
+  {
+    "title": "Programmazione logica e Prolog",
+    "description": "",
+    "image": "dl.jpeg"
+  },
+  {
+    "title": "Knowledge Engineering",
+    "description": "",
+    "image": "dl.jpeg"
+  },
+  {
+    "title": "Agenti intelligenti",
+    "description": "",
+    "image": "dl.jpeg"
+  },
+  {
+    "title": "Sistemi di supporto alle decisioni",
+    "description": "",
+    "image": "dl.jpeg"
+  },
+  {
+    "title": "Robotica",
+    "description": "",
+    "image": "dl.jpeg"
+  },
+  {
+    "title": "Reinforcement Learning",
+    "description": "",
+    "image": "dl.jpeg"
+  }
+]
