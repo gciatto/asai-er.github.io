@@ -22,51 +22,51 @@
   {
     "title": "Data Mininig",
     "description": "",
-    "image": "dl.jpeg"
+    "image": "datamining.jpeg"
   },
   {
     "title": "Data Analytics",
     "description": "",
-    "image": "dl.jpeg"
+    "image": "analytics.jpeg"
   },
   {
     "title": "Natural Language Processing",
     "description": "",
-    "image": "dl.jpeg"
+    "image": "nlp.jpeg"
   },
   {
     "title": "Computer Vision",
     "description": "",
-    "image": "dl.jpeg"
+    "image": "vision.jpeg"
   },
   {
     "title": "Programmazione logica e Prolog",
     "description": "",
-    "image": "dl.jpeg"
+    "image": "logic.jpeg"
   },
   {
     "title": "Knowledge Engineering",
     "description": "",
-    "image": "dl.jpeg"
+    "image": "knowledge.jpeg"
   },
   {
     "title": "Agenti intelligenti",
     "description": "",
-    "image": "dl.jpeg"
+    "image": "agents.jpeg"
   },
   {
     "title": "Sistemi di supporto alle decisioni",
     "description": "",
-    "image": "dl.jpeg"
+    "image": "dss.jpeg"
   },
   {
     "title": "Robotica",
     "description": "",
-    "image": "dl.jpeg"
+    "image": "robotics.jpeg"
   },
   {
     "title": "Reinforcement Learning",
     "description": "",
-    "image": "dl.jpeg"
+    "image": "rl.jpeg"
   }
 ]
