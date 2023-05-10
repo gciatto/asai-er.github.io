@@ -2,7 +2,7 @@ name: Deploy Hugo site to Pages
 
 on:
   push:
-    branches: ["master"]
+    branches: ["*"]
   pull_request:
 
 permissions:
@@ -23,8 +23,6 @@ jobs:
         id: hugo
         shell: bash
         run: |
-          # Idea: the regex matcher of Renovate keeps this string up to date automatically
-          # The version is extracted and used to access the correct version of the scripts
           USES=$(cat <<TRICK_RENOVATE
           - uses: gohugoio/hugo@v0.111.3
           TRICK_RENOVATE
