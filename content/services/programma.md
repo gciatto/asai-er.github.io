@@ -6,7 +6,32 @@ featured: true
 weight: 100
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+La scuola si propone di fornire un inquadramento dell'intelligenza artificiale, illustrarne i principali ambiti di applicazione e le problematiche relative, e presentare i fondamenti di alcune delle tematiche principali che sono attualmente alla base delle innumerevoli tecnologie di successo che sono entrate nei processi industriali, economici e sociali.
+
+Di seguito vengono riportate le principali tematiche che verranno trattate durante la scuola, che si articoleranno in attività di didattica frontale teorica e momenti di laboratorio affinché lo studente possa apprendere anche i principi operativi per l'utilizzo degli approcci teorici presentati.
+
+Il programma dettagliato è in fase di definizione.
+
+# Argomenti 
+
+* Matematica per l'intelligenza artificiale
+* Rudimenti di programmazione Python
+* Introduzione al Machine Learning e principali algoritmi di apprendimento supervisionato e non
+* Laboratorio di programmazione Python
+* Deep Learning
+* Data Mining
+* Data Analytics 
+* Natural Language Processing
+* Computer Vision
+* Programmazione Logica e rudimenti di Prolog
+* Knowledge engineering
+* Agenti intelligenti
+* Sistemi di supporto alle decisioni
+* Robotica
+* Reinforcement Learning
+
+
+<!-- Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
@@ -79,4 +104,4 @@ The balance sheet is the financial statement showing a firm's assets, liabilitie
         - international
 - goodwill
 
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.--> 
