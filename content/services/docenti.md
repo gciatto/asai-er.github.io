@@ -18,6 +18,8 @@ I docenti coinvolti nella scuola di Bertinoro sono docenti strutturati presso l'
 
 1. [Matteo Francia](https://www.unibo.it/sitoweb/m.francia): Data mining
 
+1. [Roberto Girau](https://www.unibo.it/sitoweb/roberto.girau): Rudimenti di programmazione Python
+
 1. [Elena Lolli Piccolomini](https://www.unibo.it/sitoweb/elena.loli): Matematica per l'intelligenza artificiale
 
 1. [Andrea	Roli](https://www.unibo.it/sitoweb/andrea.roli): Robotica
