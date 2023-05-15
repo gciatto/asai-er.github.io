@@ -14,9 +14,7 @@ weight: 100
 
 1. [Danilo Pianini](https://www.unibo.it/sitoweb/danilo.pianini): Ricercatore a tempo determinato tipo B, Dipartimento di Informatica — Scienza e Ingegneria, Università di Bologna
 
-2. [Sara Montagna](https://www.uniurb.it/persone/sara-montagna): Ricercatore a tempo determinato tipo B, Dipartimento di Scienze Pure e Applicate, Università di Urbino
-
-
+1. [Sara Montagna](https://www.uniurb.it/persone/sara-montagna): Ricercatrice a tempo determinato tipo B, Dipartimento di Scienze Pure e Applicate, Università di Urbino
 
 
 <!-- 2. Smontagna 
@@ -26,4 +24,4 @@ weight: 100
 
 # Organizzazione Locale
 
-1. [Monica Michelacci](): 
+1. [Monica Michelacci](mailto:mmichelacci@ceub.it): Centro Residenziale Universitario di Bertinoro
