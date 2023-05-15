@@ -79,6 +79,11 @@ title = "Hugo Serif Theme"
     url = "/services//iscriviti/"
     weight = 5
 
+  [[menu.main]]
+    name = "Organizzazione"
+    url = "/services//organizzazione/"
+    weight = 5
+
   # Footer Menu
   [[menu.footer]]
     name = "Home"
