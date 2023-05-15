@@ -8,7 +8,7 @@ weight: 100
 
 I docenti coinvolti nella scuola di Bertinoro sono docenti strutturati presso l'Università di Bologna e sono figure di riferimento nazionale e internazionale nell'ambito dell'Intelligenza Artificiale:
 
-## Lezioni
+# Lezioni
 
 1. [Gianluca Aguzzi](https://www.unibo.it/sitoweb/gianluca.aguzzi): Reinforcement Learning
 
@@ -16,13 +16,13 @@ I docenti coinvolti nella scuola di Bertinoro sono docenti strutturati presso l'
 
 1. [Roberta	Calegari](https://www.unibo.it/sitoweb/roberta.calegari): Programmazione Logica e rudimenti di Prolog
 
-2. [Matteo Francia](https://www.unibo.it/sitoweb/m.francia): Data mining
+1. [Matteo Francia](https://www.unibo.it/sitoweb/m.francia): Data mining
 
-3. [Elena Lolli Piccolomini](https://www.unibo.it/sitoweb/elena.loli): Matematica per l'intelligenza artificiale
+1. [Elena Lolli Piccolomini](https://www.unibo.it/sitoweb/elena.loli): Matematica per l'intelligenza artificiale
 
-3. [Andrea	Roli](https://www.unibo.it/sitoweb/andrea.roli): Robotica
+1. [Andrea	Roli](https://www.unibo.it/sitoweb/andrea.roli): Robotica
 
-4. [Paolo Torroni](https://www.unibo.it/sitoweb/p.torroni): Natural Language Processing
+1. [Paolo Torroni](https://www.unibo.it/sitoweb/p.torroni): Natural Language Processing
 
 
 
@@ -32,6 +32,6 @@ I docenti coinvolti nella scuola di Bertinoro sono docenti strutturati presso l'
 ![Smontagnatest](https://www.unibo.it/uniboweb/utils/UserImage.aspx?IdAnagrafica=419402&IdFoto=4124a300)
 -->
 
-## Laboratori
+# Laboratori
 
 1. [Pellegrini Lorenzo](https://www.unibo.it/sitoweb/l.pellegrini): Laboratorio di programmazione Python
