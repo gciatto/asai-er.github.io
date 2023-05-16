@@ -10,11 +10,13 @@ weight: 100
 
 1. [Maurizio Gabbrielli](https://www.unibo.it/sitoweb/maurizio.gabbrielli): Professore Ordinario, Direttore Dipartimento di Informatica — Scienza e Ingegneria, Università di Bologna
 
+1. [Sara Montagna](https://www.uniurb.it/persone/sara-montagna): Ricercatrice a tempo determinato tipo B, Dipartimento di Scienze Pure e Applicate, Università di Urbino
+
 1. [Andrea Omicini](https://www.unibo.it/sitoweb/andrea.omicini): Professore Ordinario, Vicedirettore Dipartimento di Informatica — Scienza e Ingegneria, Università di Bologna
 
 1. [Danilo Pianini](https://www.unibo.it/sitoweb/danilo.pianini): Ricercatore a tempo determinato tipo B, Dipartimento di Informatica — Scienza e Ingegneria, Università di Bologna
 
-1. [Sara Montagna](https://www.uniurb.it/persone/sara-montagna): Ricercatrice a tempo determinato tipo B, Dipartimento di Scienze Pure e Applicate, Università di Urbino
+
 
 
 <!-- 2. Smontagna 
@@ -25,3 +27,7 @@ weight: 100
 # Organizzazione Locale
 
 1. [Monica Michelacci](mailto:mmichelacci@ceub.it): Centro Residenziale Universitario di Bertinoro
+
+1. [Sara Montagna](https://www.uniurb.it/persone/sara-montagna): Ricercatrice a tempo determinato tipo B, Dipartimento di Scienze Pure e Applicate, Università di Urbino
+
+1. [Danilo Pianini](https://www.unibo.it/sitoweb/danilo.pianini): Ricercatore a tempo determinato tipo B, Dipartimento di Informatica — Scienza e Ingegneria, Università di Bologna
