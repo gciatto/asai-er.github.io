@@ -3,7 +3,7 @@ title: "Iscrizioni"
 date: 2023-11-18T12:33:46+10:00
 draft: false
 featured: true
-weight: 2000
+weight: 100
 ---
 
 L'iscrizione alla scuola può essere fatta attraverso il [link](https://forms.gle/TEap5g8c4Uuv6U5W8)
