@@ -2,7 +2,7 @@ baseURL = "https://asai-er.github.io"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 languageCode = "en-us"
-title = "Hugo Serif Theme"
+title = "Advanced School in Artificial Intelligence in Emilia Romagna"
 
 [module]
   [module.hugoVersion]
@@ -15,7 +15,7 @@ title = "Hugo Serif Theme"
   google_tag_manager_id = ""
 
   [params.homepage]
-    show_contact_box = true      # show / hide the contaxt box on the homepage
+    show_contact_box = false      # show / hide the contaxt box on the homepage
     show_services_button = false # show / hide the "view all services" button
 
   [params.logo]
@@ -53,44 +53,38 @@ title = "Hugo Serif Theme"
     copyright_text = 'Free Hugo theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
 
 [menu]
-  # Main Menu
-  [[menu.main]]
-    name = "Bertinoro"
-    url = "/services/bertinoro/"
-    weight = 1
-
-  [[menu.main]]
-    name = "Organizzazione"
-    url = "/services//organizzazione/"
-    weight = 2
-
   [[menu.main]]
     name = "Programma"
-    url = "/services//programma/"
+    url = "/services/programma/"
     weight = 3
 
   [[menu.main]]
     name = "Docenti"
-    url = "/services//docenti/"
+    url = "/services/docenti/"
     weight = 4
 
   [[menu.main]]
-    name = "Iscriviti"
-    url = "/services//iscriviti/"
+    name = "Organizzazione"
+    url = "/services/organizzazione/"
     weight = 5
 
   [[menu.main]]
-    name = "Organizzazione"
-    url = "/services//organizzazione/"
-    weight = 5
+    name = "Bertinoro"
+    url = "/services/bertinoro/"
+    weight = 8
+
+  [[menu.main]]
+    name = "Iscriviti"
+    url = "/services/iscriviti/"
+    weight = 10
 
   # Footer Menu
-  [[menu.footer]]
-    name = "Home"
-    url = "/"
-    weight = 1
+  # [[menu.footer]]
+  #   name = "Home"
+  #   url = "/"
+  #   weight = 1
 
-  [[menu.footer]]
-    name = "Iscriviti"
-    url = "/iscriviti/"
-    weight = 2
+  # [[menu.footer]]
+  #   name = "Iscriviti"
+  #   url = "/iscriviti/"
+  #   weight = 2
