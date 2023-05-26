@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homepage on Hugo Serif Theme</title>
+    <title>Homepage on Advanced School in Artificial Intelligence in Emilia Romagna</title>
     <link>https://asai-er.github.io/</link>
-    <description>Recent content in Homepage on Hugo Serif Theme</description>
+    <description>Recent content in Homepage on Advanced School in Artificial Intelligence in Emilia Romagna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 18 Nov 2018 12:33:46 +1000</lastBuildDate><atom:link href="https://asai-er.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -36,25 +36,13 @@ Paolo Torroni: Natural Language Processing</description>
     </item>
     
     <item>
-      <title>Iscrizioni</title>
-      <link>https://asai-er.github.io/services/iscriviti/</link>
-      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      
-      <guid>https://asai-er.github.io/services/iscriviti/</guid>
-      <description>L&amp;rsquo;iscrizione alla scuola può essere fatta attraverso il link a cui ti verrà chiesto di presentare un curriculum vitae datato e sottoscrito con firma autografa.</description>
-    </item>
-    
-    <item>
       <title>Organizzazione</title>
       <link>https://asai-er.github.io/services/organizzazione/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
       <guid>https://asai-er.github.io/services/organizzazione/</guid>
-      <description>Comitato Scientifico Maurizio Gabbrielli: Professore Ordinario, Direttore Dipartimento di Informatica — Scienza e Ingegneria, Università di Bologna
-Sara Montagna: Ricercatrice a tempo determinato tipo B, Dipartimento di Scienze Pure e Applicate, Università di Urbino
-Andrea Omicini: Professore Ordinario, Vicedirettore Dipartimento di Informatica — Scienza e Ingegneria, Università di Bologna
-Danilo Pianini: Ricercatore a tempo determinato tipo B, Dipartimento di Informatica — Scienza e Ingegneria, Università di Bologna
-Organizzazione Locale Monica Michelacci: Centro Residenziale Universitario di Bertinoro</description>
+      <description>La scuola estiva in Artificial Intelligence è organizzata in collaborazione tra il Dipartimento di Informatica - Scienza e Ingegneria e il Centro Residenziale Universitario di Bertinoro.
+Comitato Scientifico e Organizzatore Maurizio Gabbrielli: Professore Ordinario, Direttore Dipartimento di Informatica — Scienza e Ingegneria, Università di Bologna Sara Montagna: Ricercatrice a tempo determinato tipo B, Dipartimento di Scienze Pure e Applicate, Università di Urbino Andrea Omicini: Professore Ordinario, Vicedirettore Dipartimento di Informatica — Scienza e Ingegneria, Università di Bologna Danilo Pianini: Ricercatore a tempo determinato tipo B, Dipartimento di Informatica — Scienza e Ingegneria, Università di Bologna Organizzazione Locale Monica Michelacci: Centro Residenziale Universitario di Bertinoro Sara Montagna: Ricercatrice a tempo determinato tipo B, Dipartimento di Scienze Pure e Applicate, Università di Urbino Danilo Pianini: Ricercatore a tempo determinato tipo B, Dipartimento di Informatica — Scienza e Ingegneria, Università di Bologna Responsabile amministrativo Monica Michelacci: Centro Residenziale Universitario di Bertinoro </description>
     </item>
     
     <item>
