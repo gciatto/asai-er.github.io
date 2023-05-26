@@ -8,6 +8,8 @@ weight: 100
 
 La scuola si propone di fornire un inquadramento dell'intelligenza artificiale, illustrarne i principali ambiti di applicazione e le problematiche relative, e presentare i fondamenti di alcune delle tematiche principali che sono attualmente alla base delle innumerevoli tecnologie di successo che sono entrate nei processi industriali, economici e sociali.
 
+La scuola è pensata per neolaureati magistrali in qualunque disciplina: non sono dunque necessarie competenze pregresse per la comprensione dei contenuti erogati durante la scuola, ma curriculum scientifici ne agevolano la fruizione.
+
 Di seguito vengono riportate le principali tematiche che verranno trattate durante la scuola, che si articoleranno in attività di didattica frontale teorica e momenti di laboratorio affinché lo studente possa apprendere anche i principi operativi per l'utilizzo degli approcci teorici presentati.
 
 Il programma dettagliato è in fase di definizione.
