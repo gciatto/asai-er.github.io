@@ -1,6 +1,6 @@
 ---
 title: "Iscrizioni"
-date: 2023-11-18T12:33:46+10:00
+date: 2022-11-18T12:33:46+10:00
 draft: false
 featured: true
 weight: 100
