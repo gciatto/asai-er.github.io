@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # Advanced School in Artificial Intelligence
 
-Bertinoro, 17-28 luglio 2023
+Bertinoro (FC), 17-28 luglio 2023
