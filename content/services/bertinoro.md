@@ -18,4 +18,4 @@ Immerso in un paesaggio mozzafiato di colline verdi e vigneti, Bertinoro offre u
 
 # Arrivare a Bertinoro
 
-<div style="max-width:100%;overflow:hidden;color:red;width:800px;height:500px;"><div id="embed-map-display" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=CEUB+Bertinoro,+Via+Aldruda+Frangipane,+Bertinoro,+Province+of+Forlì-Cesena,+Italy&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe></div><a class="embed-map-html" rel="nofollow" href="https://www.bootstrapskins.com/themes" id="grab-map-data">premium bootstrap themes</a><style>#embed-map-display .text-marker{}.map-generator{max-width: 100%; max-height: 100%; background: none;</style></div>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11451.556716254734!2d12.1331987!3d44.1475296!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132ca6e9de635fa7%3A0xb7cdfe60f2c86210!2sCEUB%20Bertinoro!5e0!3m2!1sen!2sit!4v1685348224858!5m2!1sen!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
