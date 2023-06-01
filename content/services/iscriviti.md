@@ -9,9 +9,9 @@ weight: 100
 L'iscrizione alla scuola può essere fatta attraverso il [link](https://forms.gle/TEap5g8c4Uuv6U5W8)
 a cui ti verrà chiesto di presentare un *curriculum vitae* datato e sottoscrito con firma autografa.
 
-
 Il CV verrà valutato dal comitato scientifico al fine di verificare che lo studente possegga
-le competenze di base necessarie a comprendere i contenuti erogati durante la scuola.
+le competenze di base necessarie a comprendere i contenuti erogati durante la scuola,
+e per redigere una graduatoria di merito nel caso in cui le domande ricevute siano superiori ai posti disponibili.
 
 La frequenza della scuola prevede un contributo di iscrizione pari a 50 euro.
 
