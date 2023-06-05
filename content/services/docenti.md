@@ -26,6 +26,8 @@ I docenti coinvolti nella scuola di Bertinoro sono docenti strutturati presso l'
 
 1. [Andrea	Roli](https://www.unibo.it/sitoweb/andrea.roli): Robotica
 
+1. [Samuele Salti](https://www.unibo.it/sitoweb/samuele.salti): Computer Vision
+
 1. [Paolo Torroni](https://www.unibo.it/sitoweb/p.torroni): Natural Language Processing
 
 
@@ -38,4 +40,4 @@ I docenti coinvolti nella scuola di Bertinoro sono docenti strutturati presso l'
 
 # Laboratori
 
-1. [Pellegrini Lorenzo](https://www.unibo.it/sitoweb/l.pellegrini): Laboratorio di programmazione Python
+1. [Lorenzo Pellegrini](https://www.unibo.it/sitoweb/l.pellegrini): Laboratorio di programmazione Python
