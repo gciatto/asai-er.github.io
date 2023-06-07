@@ -18,6 +18,8 @@ I docenti coinvolti nella scuola di Bertinoro sono docenti strutturati presso l'
 
 1. [Giovanni Ciatto](https://www.unibo.it/sitoweb/giovanni.ciatto): Agenti Intelligenti
 
+1. [Matteo Ferrara](https://www.unibo.it/sitoweb/matteo.ferrara): Deep Learning
+
 1. [Matteo Francia](https://www.unibo.it/sitoweb/m.francia): Data mining
 
 1. [Roberto Girau](https://www.unibo.it/sitoweb/roberto.girau): Rudimenti di programmazione Python
@@ -30,7 +32,7 @@ I docenti coinvolti nella scuola di Bertinoro sono docenti strutturati presso l'
 
 1. [Paolo Torroni](https://www.unibo.it/sitoweb/p.torroni): Natural Language Processing
 
-
+1. [Stefano Pio Zingaro](https://www.unibo.it/sitoweb/stefano.zingaro): Fondamenti di Machine Learning
 
 
 <!-- 2. Smontagna 

@@ -13,7 +13,10 @@ Il CV verrà valutato dal comitato scientifico al fine di verificare che lo stud
 le competenze di base necessarie a comprendere i contenuti erogati durante la scuola,
 e per redigere una graduatoria di merito nel caso in cui le domande ricevute siano superiori ai posti disponibili.
 
-La frequenza della scuola prevede un contributo di iscrizione pari a 50 euro.
+La frequenza della scuola prevede un contributo di iscrizione pari a 50 euro. 
+Oltre a questo contributo, l'iscrizione alla scuola è gratuita e comprende 
+vitto, per tutte le giornate di lezione (esclusi quindi i week end) 
+e alloggio, in camera doppia, presso la Residenza Universitaria di Bertinoro.
 
 La prima finestra per inviare la propria candidatura scadrà il giorno 23/6/2023. 
 Verrà aperta una successiva finestra nel caso di disponibilità residua di posti.
