@@ -35,6 +35,6 @@ Il programma dettagliato è in fase di definizione.
 # Programma
 
 | Giorno | 9:00--13:00 | 13:00--14:00 | 14:00--16:00 | 16:00--18:00 | Attività serale |
-|---|---|---|---|---|
+|---|---|---|---|---|---|
 | Lunedì 17 luglio | *E. Piccolomini* -- Matematica per l'intelligenza artificiale | Pausa pranzo | **in definizione** | Non prevista    |
 | Venerdì 28 luglio | *M. Francia* -- HACKATON | Pausa pranzo | **in definizione** | *D. Tafani* -- Etica dell'intelligenza artificiale e cattura culturale | **Cena Sociale** |
