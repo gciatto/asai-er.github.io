@@ -37,5 +37,6 @@ Il programma dettagliato è in fase di definizione.
 | Giorno | 9:00--13:00 | 13:00--14:00 | 14:00--18:00 | Attività serale |
 |---|---|---|---|---|---|
 | Lunedì 17 luglio | *E. Piccolomini* -- Matematica per l'intelligenza artificiale | Pausa pranzo | *R. Girau* -- Rudimenti di programmazione Python | Non prevista    |
-| Martedì 18 Luglio | *E. Piccolomini* -- Matematica per l'intelligenza artificiale | Pausa pranzo | *R. Girau* -- Rudimenti di programmazione Python | Non prevista    |
+| Martedì 18 Luglio | *S.P. Zingaro* -- Introduzione al Machine Learning e principali algoritmi di apprendimento supervisionato e non | Pausa pranzo | *L. Pellegrini* -- Laboratorio di programmazione Python | Non prevista    |
+| Mercoledì 19 Luglio | *S.P. Zingaro* -- Introduzione al Machine Learning e principali algoritmi di apprendimento supervisionato e non | Pausa pranzo | *M. Ferrara* -- Deep Learning | Non prevista    |
 | Venerdì 28 luglio | *M. Francia* -- HACKATON | Pausa pranzo | **in definizione** | *D. Tafani* -- Etica dell'intelligenza artificiale e cattura culturale | **Cena Sociale** |
