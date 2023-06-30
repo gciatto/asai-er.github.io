@@ -40,8 +40,9 @@ Il programma dettagliato è in fase di definizione.
 | Martedì 18 Luglio | *S.P. Zingaro* -- Introduzione al Machine Learning e principali algoritmi di apprendimento supervisionato e non | Pausa pranzo | *L. Pellegrini* -- Laboratorio di programmazione Python | Non prevista    |
 | Mercoledì 19 Luglio | *S.P. Zingaro* -- Introduzione al Machine Learning e principali algoritmi di apprendimento supervisionato e non | Pausa pranzo | *M. Ferrara* -- Deep Learning | Non prevista    |
 | Giovedì 20 Luglio | *M. Francia* -- Data Mining | Pausa pranzo | **in definizione**  | Non prevista    |
+| Venerdì 28 Luglio | *P. Torroni* -- Natural Language Processing | Pausa pranzo | *S. Salti* -- Computer Vision | Non prevista    |
 | Lunedì 24 Luglio | *R. Calegari* -- Programmazione Logica e rudimenti di Prolog | Pausa pranzo | **in definizione** | Non prevista    |
 | Martedì 25 Luglio | *G. Ciatto* -- Agenti Intelligenti | Pausa pranzo | *R. Amadini* -- Sistemi di supporto alle decisioni  | Non prevista    |
 | Mercoledì 26 Luglio | *G. Aguzzi* -- Reinforcement Learning | Pausa pranzo | *A. Roli* -- Sistemi robotici  | Non prevista    |
 | Giovedì 27 Luglio | **in definizione**  | Pausa pranzo | **in definizione**  | Non prevista    |
-| Venerdì 28 Luglio | *M. Francia* -- HACKATON | Pausa pranzo | **in definizione** | *D. Tafani* -- Etica dell'intelligenza artificiale e cattura culturale | **Cena Sociale** |
+| Venerdì 28 Luglio | *M. Francia* -- HACKATON | Pausa pranzo | *D. Tafani* -- Etica dell'intelligenza artificiale e cattura culturale | **Cena Sociale** |
