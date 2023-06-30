@@ -18,5 +18,4 @@ Oltre a questo contributo, l'iscrizione alla scuola è gratuita e comprende
 vitto, per tutte le giornate di lezione (esclusi quindi i week end) 
 e alloggio, in camera doppia, presso la Residenza Universitaria di Bertinoro.
 
-La prima finestra per inviare la propria candidatura scadrà il giorno 23/6/2023. 
-Verrà aperta una successiva finestra nel caso di disponibilità residua di posti.
+La scadenza per inviare la propria candidatura è prevista per il giorno 11/7/2023. 
