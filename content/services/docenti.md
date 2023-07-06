@@ -24,6 +24,8 @@ I docenti coinvolti nella scuola di Bertinoro sono docenti strutturati presso l'
 
 1. [Roberto Girau](https://www.unibo.it/sitoweb/roberto.girau): Rudimenti di programmazione Python
 
+1. [Andrea Pagliarani](https://www.linkedin.com/in/andrea-pagliarani-b322a786/): Creare valore nell'industria con l'AI
+
 1. [Elena Lolli Piccolomini](https://www.unibo.it/sitoweb/elena.loli): Matematica per l'intelligenza artificiale
 
 1. [Andrea	Roli](https://www.unibo.it/sitoweb/andrea.roli): Robotica
