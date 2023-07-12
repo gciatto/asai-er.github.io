@@ -14,6 +14,8 @@ I docenti coinvolti nella scuola di Bertinoro sono docenti strutturati presso l'
 
 1. [Roberto	Amadini](https://www.unibo.it/sitoweb/roberto.amadini): Sistemi di supporto alle decisioni
 
+1. [Andrea Belli](https://www.linkedin.com/in/andreabelli/): Creare valore nell'industria con l'AI
+
 1. [Roberta	Calegari](https://www.unibo.it/sitoweb/roberta.calegari): Programmazione Logica e rudimenti di Prolog
 
 1. [Giovanni Ciatto](https://www.unibo.it/sitoweb/giovanni.ciatto): Agenti Intelligenti
