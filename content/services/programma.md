@@ -48,4 +48,4 @@ Il programma dettagliato è disponibile nel seguito. **Le lezioni saranno svolte
 | Venerdì 28 Luglio | *M. Francia* -- HACKATON | Pausa pranzo | *D. Tafani* -- Etica dell'intelligenza artificiale e cattura culturale | 
 
 
-**Per Venerdì 28 Luglio è prevista la cena sociale**. Forniremo a breve dettagli sul luogo e l'ora.
+**Per Giovedì 27 Luglio è prevista la cena sociale**. Forniremo a breve dettagli sul luogo e l'ora.
