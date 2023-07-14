@@ -38,8 +38,8 @@ Il programma dettagliato è disponibile nel seguito. **Le lezioni saranno svolte
 |---|---|---|---|---|
 | Lunedì 17 Luglio | *E. Piccolomini* -- Matematica per l'intelligenza artificiale | Pausa pranzo | *R. Girau* -- Rudimenti di programmazione Python | 
 | Martedì 18 Luglio | *S.P. Zingaro* -- Introduzione al Machine Learning e principali algoritmi di apprendimento supervisionato e non | Pausa pranzo | *L. Pellegrini* -- Laboratorio di programmazione Python | 
-| Mercoledì 19 Luglio | *S.P. Zingaro* -- Introduzione al Machine Learning e principali algoritmi di apprendimento supervisionato e non | Pausa pranzo | *M. Ferrara* -- Deep Learning | 
-| Giovedì 20 Luglio | *M. Francia* -- Data Mining | Pausa pranzo | **in definizione**  | 
+| Mercoledì 19 Luglio | *A. Zanellati* -- Introduzione al Machine Learning e principali algoritmi di apprendimento supervisionato e non | Pausa pranzo | *M. Ferrara* -- Deep Learning | 
+| Giovedì 20 Luglio | *M. Francia* -- Data Mining | Pausa pranzo | **libero**  | 
 | Venerdì 21 Luglio | *P. Torroni* -- Natural Language Processing | Pausa pranzo | *S. Salti* -- Computer Vision | 
 | Lunedì 24 Luglio | *R. Calegari* -- Programmazione Logica e rudimenti di Prolog | Pausa pranzo | **in definizione** | 
 | Martedì 25 Luglio | *G. Ciatto* -- Agenti Intelligenti | Pausa pranzo | *R. Amadini* -- Sistemi di supporto alle decisioni  | 
@@ -48,4 +48,4 @@ Il programma dettagliato è disponibile nel seguito. **Le lezioni saranno svolte
 | Venerdì 28 Luglio | *M. Francia* -- HACKATON | Pausa pranzo | *D. Tafani* -- Etica dell'intelligenza artificiale e cattura culturale | 
 
 
-**Per Giovedì 27 Luglio è prevista la cena sociale**. Forniremo a breve dettagli sul luogo e l'ora.
+**Per Giovedì 27 Luglio è prevista la cena sociale**, “Ca’ de Bè”, Piazza della Libertà, Bertinoro.
