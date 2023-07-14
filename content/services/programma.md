@@ -45,7 +45,7 @@ Il programma dettagliato è disponibile nel seguito. **Le lezioni saranno svolte
 | Martedì 25 Luglio | *G. Ciatto* -- Agenti Intelligenti | Pausa pranzo | *R. Amadini* -- Sistemi di supporto alle decisioni  | 
 | Mercoledì 26 Luglio | *G. Aguzzi* -- Reinforcement Learning | Pausa pranzo | *A. Roli* -- Sistemi robotici  | 
 | Giovedì 27 Luglio | *A. Pagliarani* -- Creare valore industriale con l'AI  | Pausa pranzo | *A. Belli* -- Creare valore industriale con l'AI | 
-| Venerdì 28 Luglio | *M. Francia* -- HACKATON | Pausa pranzo | *D. Tafani* -- Etica dell'intelligenza artificiale e cattura culturale | 
+| Venerdì 28 Luglio | *M. Francia* -- HACKATON | Pausa pranzo | *G. Graffieti* Etica ed AI - *D. Tafani* -- Etica dell'intelligenza artificiale e cattura culturale| 
 
 
-**Per Giovedì 27 Luglio è prevista la cena sociale**, “Ca’ de Bè”, Piazza della Libertà, Bertinoro.
+**Per Giovedì 27 Luglio è prevista la cena sociale** presso la “Ca’ de Bè”, Piazza della Libertà, Bertinoro.
