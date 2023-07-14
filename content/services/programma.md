@@ -43,7 +43,7 @@ Il programma dettagliato è disponibile nel seguito. **Le lezioni saranno svolte
 | Venerdì 21 Luglio | *P. Torroni* -- Natural Language Processing | Pausa pranzo | *S. Salti* -- Computer Vision | 
 | Lunedì 24 Luglio | *R. Calegari* -- Programmazione Logica e rudimenti di Prolog | Pausa pranzo | **in definizione** | 
 | Martedì 25 Luglio | *G. Ciatto* -- Agenti Intelligenti | Pausa pranzo | *R. Amadini* -- Sistemi di supporto alle decisioni  | 
-| Mercoledì 26 Luglio | *G. Aguzzi* -- Reinforcement Learning | Pausa pranzo | *A. Roli* -- Sistemi robotici  | 
+| Mercoledì 26 Luglio | *G. Aguzzi* -- Reinforcement Learning | Pausa pranzo | *A. Roli* -- Sistemi intelligenti robotici  | 
 | Giovedì 27 Luglio | *A. Pagliarani* -- Creare valore industriale con l'AI  | Pausa pranzo | *A. Belli* -- Creare valore industriale con l'AI | 
 | Venerdì 28 Luglio | *M. Francia* -- HACKATON | Pausa pranzo | *G. Graffieti* Etica ed AI - *D. Tafani* -- Etica dell'intelligenza artificiale e cattura culturale| 
 
