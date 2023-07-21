@@ -83,6 +83,11 @@ title = "Advanced School in Artificial Intelligence in Emilia Romagna"
     url = "/services/iscriviti/"
     weight = 10
 
+  [[menu.main]]
+    name = "Materiale"
+    url = "/services/materiale/"
+    weight = 12
+
   # Footer Menu
   # [[menu.footer]]
   #   name = "Home"
