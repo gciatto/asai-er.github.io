@@ -10,6 +10,7 @@ weight: 100
 | Autore | Lezione | Materiale | 
 |---|---|---|
 | *R. Calegari* | Programmazione Logica e rudimenti di Prolog | [Programmazione logica](/calegari-prolog.pdf), [Explainable and Ethical AI](/calegari-xeai.pdf) |
+| *G. Ciatto* | Intelligent Agents: A Gentle Introduction | [Slides](/ciatto.pdf) |
 | *M. Ferrara* | Deep Learning | [Slides](/ferrara.pdf) |
 | *R. Girau* | Rudimenti di programmazione Python | [Slides](/girau.pdf) |
 | *E. Piccolomini* | Matematica per l'intelligenza artificiale | [Slides](/piccolomini.pdf) |
